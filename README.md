@@ -8,7 +8,7 @@
 - 👯 Procuro colaborar com o desenvolvimento fullstack. Você pode encontrar meu projeto mais recente em: [Simulador de Caixa Eletrônico](https://github.com/Wanderson-Patricio/caixa_eletronico)
 
 - 💬 Sobre mim:
-<p align="center"> <strong>ou um apaixonado por ciência e tecnologia. Iniciei a minha jornada nessa área participando de olimpíadas científicas no ensino médio. Enveredei para o ramo da tecnologia em 2022 quando ingressei no curso de Ciência da Computação pela Universidade Federal do Cariri. Prestei o concurso para Assesor de TI do Banco do Brasil em 2023 e fui aprovado. Atualmente trabalho na manutenção e suporte aos usuários das ferramentas de IA e Analytics do banco.</strong> </p>
+<p align="center"> <strong>Sou um apaixonado por ciência e tecnologia. Iniciei a minha jornada nessa área participando de olimpíadas científicas no ensino médio. Enveredei para o ramo da tecnologia em 2022 quando ingressei no curso de Ciência da Computação pela Universidade Federal do Cariri. Prestei o concurso para Assesor de TI do Banco do Brasil em 2023 e fui aprovado. Atualmente trabalho na manutenção e suporte aos usuários das ferramentas de IA e Analytics do banco.</strong> </p>
 
 - 📫 Como me encontrar: **wanderfapat@gmail.com**
 
