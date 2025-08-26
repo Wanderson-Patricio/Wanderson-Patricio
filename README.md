@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Wanderson Patricio</h1>
 <h3 align="center">Eu sou apaixonado por desenvolvimento fullstack. Desde o desenho e modelagem do banco de dados, criação de APIs e desenvolvimento de templates no frontend para o usuário.</h3>
 
-- 🔭 Atualmente, trabalho como desenvolvedor backend no **[Banco do Brasil](bb.com.br)**
+- 🔭 Atualmente, trabalho como desenvolvedor backend no **[Banco do Brasil](https://www.bb.com.br)**
 
 - 🌱 Estou me aperfeiçoando em: **Angular, React, FastAPI, node.js, express, MongoDB e SQL.**
 
