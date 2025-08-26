@@ -10,6 +10,12 @@
 - 💬 Sobre mim:
 <p align="center"> <strong>Sou um apaixonado por ciência e tecnologia. Iniciei a minha jornada nessa área participando de olimpíadas científicas no ensino médio. Enveredei para o ramo da tecnologia em 2022 quando ingressei no curso de Ciência da Computação pela Universidade Federal do Cariri. Prestei o concurso para Assesor de TI do Banco do Brasil em 2023 e fui aprovado. Atualmente trabalho na manutenção e suporte aos usuários das ferramentas de IA e Analytics do banco.</strong> </p>
 
+- 📘 Formações
+
+  - Ensino Médio Completo (Colégio Ari de Sá Cavalcante - 2020)
+
+  - Graduação em Ciência da Computação (Universidade Estácio de Sá - Cursando) (01/2024 - )
+
 - 📫 Como me encontrar: **wanderfapat@gmail.com**
 
 - 📄 Você pode saber mais das minhas experiências através do meu perfil no linkedin: [https://www.linkedin.com/in/wanderson-patricio-180111167/](https://www.linkedin.com/in/wanderson-patricio-180111167/)
