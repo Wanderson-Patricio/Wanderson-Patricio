@@ -1,0 +1,182 @@
+Metodologias Ágeis:
+  - course_name: OKR - construindo metas ágeis
+    course_link: https://unibb.alura.com.br/user/F9795456/course/okr-construindo-metas-ageis/certificate
+  - course_name: Ágil Escalado - conheça frameworks para grandes desenvolvimentos
+    course_link: https://unibb.alura.com.br/user/F9795456/course/agil-escalado-frameworks-grandes-desenvolvimentos/certificate
+  - course_name: Gestão Ágil - explorando conceitos da agilidade
+    course_link: https://unibb.alura.com.br/user/F9795456/course/gestao-agil-conceitos-agilidade/certificate
+  - course_name: Práticas Ágeis - construa um ambiente ágil
+    course_link: https://unibb.alura.com.br/user/F9795456/course/praticas-ageis/certificate
+  - course_name: Organização de Equipes Ágeis - os papéis existentes em uma equipe
+    course_link: https://unibb.alura.com.br/user/F9795456/course/organizando-equipes-ageis/certificate
+  - course_name: Kanban - análises para implementação
+    course_link: https://unibb.alura.com.br/user/F9795456/course/kanban-analises-implementacao/certificate
+Inteligência Artificial:
+  - course_name: IA - explorando o potencial da inteligência artificial generativa
+    course_link: https://unibb.alura.com.br/user/F9795456/course/ia-explorando-potencial-inteligencia-artificial-generativa/certificate
+Liderança e Soft Skills:
+  - course_name: Aprendizado contínuo - desenvolvendo o perfil de lifelong learner
+    course_link: https://unibb.alura.com.br/user/F9795456/course/aprendizado-continuo-desenvolvendo-perfil-lifelong-learner/certificate
+  - course_name: Liderança ambidestra - buscando inovação e resultados
+    course_link: https://unibb.alura.com.br/user/F9795456/course/lideranca-ambidestra-inovacao-resultados/certificate
+  - course_name: Liderança - aprendendo sobre a missão e propósito de liderar pessoas
+    course_link: https://unibb.alura.com.br/user/F9795456/course/lideranca-missao-proposito-liderar-pessoas/certificate
+  - course_name: Feedback - a arte de orientar e ser orientado com sentido
+    course_link: https://unibb.alura.com.br/user/F9795456/course/feedback/certificate
+  - course_name: Mindset digital - técnicas e habilidades para liderança remota
+    course_link: https://unibb.alura.com.br/user/F9795456/course/mindset-digital-tecnicas-habilidades-para-lideranca-remota/certificate
+Linguagens de Programação:
+  Python:
+    - course_name: Python - avance na Orientação a Objetos e consuma API
+      course_link: https://unibb.alura.com.br/user/F9795456/course/python-avance-orientacao-objetos-consuma-api/certificate
+    - course_name: Python - aplicando a Orientação a Objetos
+      course_link: https://unibb.alura.com.br/user/F9795456/course/python-aplicando-orientacao-objetos/certificate
+    - course_name: Python - crie a sua primeira aplicação
+      course_link: https://unibb.alura.com.br/user/F9795456/course/python-crie-sua-primeira-aplicacao/certificate
+    - course_name: Python - avançando na orientação a objetos
+      course_link: https://unibb.alura.com.br/user/F9795456/course/python-3-avancando-orientacao-objetos/certificate
+    - course_name: Python - entendendo a Orientação a Objetos
+      course_link: https://unibb.alura.com.br/user/F9795456/course/python-entendendo-orientacao-objetos/certificate
+    - course_name: Python - avançando na linguagem
+      course_link: https://unibb.alura.com.br/user/F9795456/course/python-3-avancando-na-linguagem/certificate
+    - course_name: Python - começando com a linguagem
+      course_link: https://unibb.alura.com.br/user/F9795456/course/python-introducao-a-linguagem/certificate
+  JavaScript:
+    - course_name: JavaScript - programando a Orientação a Objetos
+      course_link: https://unibb.alura.com.br/user/F9795456/course/javascritpt-orientacao-objetos/certificate
+    - course_name: JavaScript - interfaces e Herança em Orientação a Objetos
+      course_link: https://unibb.alura.com.br/user/F9795456/course/javascript-polimorfismo/certificate
+    - course_name: JavaScript - explorando a linguagem
+      course_link: https://unibb.alura.com.br/user/F9795456/course/javascript-introducao/certificate
+    - course_name: ChatGPT e JavaScript - construa o jogo Pong
+      course_link: https://unibb.alura.com.br/user/F9795456/course/chatgpt-javascript-construa-jogo-pong/certificate
+  Java:
+    - course_name: Java OO - entendendo a Orientação a Objetos
+      course_link: https://unibb.alura.com.br/user/F9795456/course/java-introducao-orientacao-objetos/certificate
+    - course_name: Java e java.lang - programe com a classe Object e String
+      course_link: https://unibb.alura.com.br/user/F9795456/course/java-pacotes-e-java-lang/certificate
+    - course_name: Java Collections - Dominando Listas, Sets e Mapas
+      course_link: https://unibb.alura.com.br/user/F9795456/course/java-collections/certificate
+    - course_name: Java - consumindo API, gravando arquivos e lidando com erros
+      course_link: https://unibb.alura.com.br/user/F9795456/course/java-consumindo-api-gravando-arquivos-lidando-erros/certificate
+    - course_name: Java - trabalhando com listas e coleções de dados
+      course_link: https://unibb.alura.com.br/user/F9795456/course/java-listas-colecoes-dados/certificate
+  TypeScript:
+    - course_name: TypeScript Part 1 - Evolving Your JavaScript
+      course_link: https://unibb.alura.com.br/user/F9795456/course/typescript-evoluindo-javascript/certificate
+  Node.js:
+    - course_name: Node.js - testes unitários e de integração
+      course_link: https://unibb.alura.com.br/user/F9795456/course/nodejs-testes-unitarios-integracao/certificate
+    - course_name: Node.js - lidando com buscas, filtros, paginação e erros em uma API
+      course_link: https://unibb.alura.com.br/user/F9795456/course/node-js-buscas-filtros-paginacao-erros-api/certificate
+    - course_name: Node.js - continue seu projeto full stack criando uma API com Express
+      course_link: https://unibb.alura.com.br/user/F9795456/course/node-primeira-api-express/certificate
+    - course_name: Node.js - criando uma API Rest com Express e MongoDB
+      course_link: https://unibb.alura.com.br/user/F9795456/course/node-js-api-rest-express-mongodb/certificate
+    - course_name: Node.js e terminal - dominando o ambiente de desenvolvimento front-end
+      course_link: https://unibb.alura.com.br/user/F9795456/course/node-js-terminal-ambiente-desenvolvimento-front-end/certificate
+Frameworks e Ferramentas:
+  Angular 14:
+    - course_name: Angular 14 - aplique os conceitos e desenvolva seu primeiro CRUD
+      course_link: https://unibb.alura.com.br/user/F9795456/course/angular-explorando-framework/certificate
+    - course_name: Angular 14 - evoluindo a aplicação
+      course_link: https://unibb.alura.com.br/user/F9795456/course/angular-evoluindo-aplicacao/certificate
+  Flask:
+    - course_name: Flask - crie uma webapp com Python
+      course_link: https://unibb.alura.com.br/user/F9795456/course/flask-crie-webapp-python/certificate
+    - course_name: Flask - avançando no desenvolvimento web com Python
+      course_link: https://unibb.alura.com.br/user/F9795456/course/flask-desenvolvimento-web/certificate
+  Maven:
+    - course_name: Maven - gerenciamento de dependências e build de aplicações Java
+      course_link: https://unibb.alura.com.br/user/F9795456/course/maven-gerenciamento-dependencias-build-aplicacoes-java/certificate
+  Docker:
+    - course_name: Docker - criando e gerenciando containers
+      course_link: https://unibb.alura.com.br/user/F9795456/course/docker-criando-gerenciando-containers/certificate
+    - course_name: Docker - Criando containers sem dor de cabeça
+      course_link: https://unibb.alura.com.br/user/F9795456/course/docker-e-docker-compose/certificate
+  Kubernetes:
+    - course_name: Kubernetes - Pods, Services e ConfigMaps
+      course_link: https://unibb.alura.com.br/user/F9795456/course/kubernetes-pods-services-configmap/certificate
+    - course_name: Kubernetes - Deployments, Volumes e Escalabilidade
+      course_link: https://unibb.alura.com.br/user/F9795456/course/kubernetes-deployments-volumes-escalabilidade/certificate
+  MongoDB:
+    - course_name: MongoDB - modelagem de dados
+      course_link: https://unibb.alura.com.br/user/F9795456/course/mongodb-modelagem-de-dados/certificate
+    - course_name: MongoDB - realizando consultas
+      course_link: https://unibb.alura.com.br/user/F9795456/course/mongodb-realizando-consultas/certificate
+    - course_name: MongoDB - conhecendo um banco de dados NoSQL
+      course_link: https://unibb.alura.com.br/user/F9795456/course/mongodb-banco-dados-nosql/certificate
+  SQLite:
+    - course_name: SQLite Online - executando consultas SQL
+      course_link: https://unibb.alura.com.br/user/F9795456/course/sqlite-online-executando-consultas-sql/certificate
+    - course_name: SQLite online - conhecendo instruções SQL
+      course_link: https://unibb.alura.com.br/user/F9795456/course/sqlite-online-conhecendo-instrucoes-sql/certificate
+    - course_name: SQLite online - análise de dados com SQL
+      course_link: https://unibb.alura.com.br/user/F9795456/course/sqlite-online-analise-dados-sql/certificate
+  Git e Github:
+    - course_name: Git e Github - estratégias de ramificação, Conflitos e Pull Requests
+      course_link: https://unibb.alura.com.br/user/F9795456/course/git-github-branching-conflitos-pull-requests/certificate
+    - course_name: Git e Github - controle e compartilhe seu código
+      course_link: https://unibb.alura.com.br/user/F9795456/course/git-github-controle-de-versao/certificate
+Banco de Dados:
+  - course_name: Modelagem de banco de dados - entidades, relacionamentos e atributos
+    course_link: https://unibb.alura.com.br/user/F9795456/course/modelagem-banco-dados-entidades-relacionamentos-atributos/certificate
+  - course_name: Realizando consultas com SQL - Joins, Views e transações
+    course_link: https://unibb.alura.com.br/user/F9795456/course/realizando-consultas-sql-joins-views-transacoes/certificate
+Design e UX:
+  - course_name: Acessibilidade em UX - desvendando a WCAG
+    course_link: https://unibb.alura.com.br/user/F9795456/course/acessibilidade-ux-desvendando-wcag/certificate
+  - course_name: UX Design - entenda a área da User Experience
+    course_link: https://unibb.alura.com.br/user/F9795456/course/ux-design-entenda-area-user-experience/certificate
+Arquitetura de Software:
+  - course_name: Ciclo de vida de aplicações - modelando, desenvolvendo e implantando um software
+    course_link: https://unibb.alura.com.br/user/F9795456/course/ciclo-vida-aplicacoes-modelando-desenvolvendo-implantando-software/certificate
+  - course_name: The Twelve-Factor App - Metodologia para construção de aplicações robustas
+    course_link: https://unibb.alura.com.br/user/F9795456/course/the-twelve-factor-app/certificate
+Web e HTTP:
+  - course_name: HTTP - entendendo a web por baixo dos panos
+    course_link: https://unibb.alura.com.br/user/F9795456/course/http-entendendo-web-por-baixo-dos-panos/certificate
+DevOps e Integração Contínua:
+  - course_name: Integração Contínua - mais qualidade e menos risco no desenvolvimento
+    course_link: https://unibb.alura.com.br/user/F9795456/course/desenvolvimento-software-integracao-continua/certificate
+  - course_name: Entrega Contínua - confiabilidade e qualidade na implantação de software
+    course_link: https://unibb.alura.com.br/user/F9795456/course/entrega-continua-confiabilidade-qualidade/certificate
+Análise de Dados:
+  Python para Data Science:
+    - course_name: Análise de dados com Python - utilizando o ChatGPT como assistente
+      course_link: https://unibb.alura.com.br/user/F9795456/course/analise-dados-python-chatgpt-assistente/certificate
+    - course_name: Python para Data Science - primeiros passos
+      course_link: https://unibb.alura.com.br/user/F9795456/course/python-data-science-primeiros-passos/certificate
+    - course_name:
+        Python para Data Science - trabalhando com funções, estruturas de dados
+        e exceções
+      course_link: https://unibb.alura.com.br/user/F9795456/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate
+  Pandas:
+    - course_name: Pandas - transformação e manipulação de dados
+      course_link: https://unibb.alura.com.br/user/F9795456/course/pandas-transformacao-manipulacao-dados/certificate
+    - course_name: Pandas - selecionando e agrupando dados
+      course_link: https://unibb.alura.com.br/user/F9795456/course/pandas-selecao-agrupamento-dados/certificate
+    - course_name: Pandas - limpeza e tratamento de dados
+      course_link: https://unibb.alura.com.br/user/F9795456/course/pandas-limpeza-tratamento-dados/certificate
+    - course_name: Pandas - conhecendo a biblioteca
+      course_link: https://unibb.alura.com.br/user/F9795456/course/pandas-conhecendo-biblioteca/certificate
+    - course_name: Pandas I/O - trabalhando com diferentes formatos de arquivos
+      course_link: https://unibb.alura.com.br/user/F9795456/course/pandas-io-trabalhando-diferentes-formatos-arquivos/certificate
+  NumPy:
+    - course_name: NumPy - análise numérica eficiente com Python
+      course_link: https://unibb.alura.com.br/user/F9795456/course/numpy-analise-numerica-eficiente-pythons/certificate
+  Pipelines de Dados:
+    - course_name: Pipeline de dados - integrando Python com MongoDB e MySQL
+      course_link: https://unibb.alura.com.br/user/F9795456/course/pipeline-dados-integrando-python-mongodb-mysql/certificate
+    - course_name: Pipeline de dados - combinando Python e orientação a objeto
+      course_link: httpsTwoibb.alura.com.br/user/F9795456/course/pipeline-dados-combinando-python-orientacao-objeto/certificate
+Sistemas Operacionais:
+  - course_name: Linux I - conhecendo e utilizando o terminal
+    course_link: https://unibb.alura.com.br/user/F9795456/course/linux-ubuntu/certificate
+  - course_name: Linux II - programas, processos e pacotes
+    course_link: https://unibb.alura.com.br/user/F9795456/course/linux-ubuntu-processos/certificate
+Outros:
+  - course_name: Criação de valor - conhecendo os conceitos-chave para gerenciamento de serviços
+    course_link: https://unibb.alura.com.br/user/F9795456/course/certificacao-itil-4-conceitos-chave-gerenciamento-servicos/certificate
+  - course_name: Cadeia de valor de serviços - conhecendo as 4 dimensões
+    course_link: https://unibb.alura.com.br/user/F9795456/course/certificacao-itil-4-cadeia-valor-quatro-dimensoes/certificate
